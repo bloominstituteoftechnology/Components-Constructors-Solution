@@ -1,7 +1,6 @@
-@import './components/Nav/Nav.css';
-@import './components/Header/Header.css';
 @import './components/Section/Section.css';
 @import './components/Box/Box.css';
+@import './components/Dropdown/Dropdown.css';
 
 body {
 	box-sizing: border-box;
